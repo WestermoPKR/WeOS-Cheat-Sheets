@@ -2,8 +2,13 @@
 
 To login via the console port you need the username and password. Currently there is only a single user account defined, the administrator user account. Factory default account and password:
 
+# WeOS4
 Login: admin
 Password: westermo
+
+# WeOS5
+Login: admin
+Password: admin
 
 
 Console Port Configuration:
