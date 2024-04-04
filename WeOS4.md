@@ -21,7 +21,9 @@ Console Port Configuration:
 | Parity | None |
 | Flow control | None |
 
+Link zu https://ftdichip.com/drivers/vcp-drivers/
 
+> 5.2.2
 
 ### WeOS4 Cheat Sheet
 
