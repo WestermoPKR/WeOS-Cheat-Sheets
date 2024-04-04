@@ -14,7 +14,8 @@ Console Port Configuration:
 | Parity | None |
 | Flow control | None |
 
-![Screenshot 2024-04-04 145002](https://github.com/WesterMario/WeOS4-Cheat-Sheet/assets/166021733/c5305608-e9d7-4b97-8f90-44514f799d2c)
+![photoeffekte com_](https://github.com/WesterMario/WeOS4-Cheat-Sheet/assets/166021733/bc87d8ed-6906-48d7-83eb-8e0482da66a6)
+
 
 ### WeOS4 Cheat Sheet
 
