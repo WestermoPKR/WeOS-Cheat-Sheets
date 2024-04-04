@@ -1,3 +1,20 @@
+Accessing the command line interface:
+
+To login via the console port you need the username and password. Currently there is only a single user account defined, the administrator user account. Factory default account and password:
+ Login: admin
+ Password: westermo
+
+Console Port Configuration:
+
+| Setting | Value |
+| :--- | :--- |
+| Data rate | 115200 bits/s |
+| Data bits | 8 |
+| Stop bits | 1 |
+| Parity | None |
+| Flow control | None |
+
+
 ### WeOS4 Cheat Sheet
 
 ### Configuration Mode:
