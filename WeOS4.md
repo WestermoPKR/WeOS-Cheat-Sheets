@@ -1,4 +1,4 @@
-Accessing the command line interface:
+### Accessing the command line interface:
 
 To login via the console port you need the username and password. Currently there is only a single user account defined, the administrator user account. Factory default account and password:
  Login: admin
@@ -14,6 +14,7 @@ Console Port Configuration:
 | Parity | None |
 | Flow control | None |
 
+![Screenshot 2024-04-04 145002](https://github.com/WesterMario/WeOS4-Cheat-Sheet/assets/166021733/c5305608-e9d7-4b97-8f90-44514f799d2c)
 
 ### WeOS4 Cheat Sheet
 
