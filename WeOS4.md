@@ -40,10 +40,9 @@ Here, they can set device parameters of global significance, like hostname and l
 From Global Configuration, users can navigate to specific contexts for protocols or device entities such as ports, VLANs, interfaces, and FRNT.
 
 
-
 ### Configuration Mode:
 
-| Command | Description |
+| Command | Description | Syntax 
 | :--- | :--- |
 | `config terminal:` | Enters configuration mode. |
 | `description [description_text]:` | Configures a description for an interface. |
