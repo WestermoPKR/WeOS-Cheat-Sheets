@@ -57,15 +57,6 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `show ip route:` | Displays the IP routing table. |
 | `traceroute [destination]:` | Performs a traceroute to the destination. |
 
-### Security Mode:
-
-| Command | Description |
-| :--- | :--- |
-| `access-list [acl_number] permit/deny [source] [destination] [protocol]:` | Configures an access list. |
-| `crypto key generate rsa:` | Generates RSA keys for SSH authentication. |
-| `enable secret [password]:` | Configures an encrypted password for privileged mode. |
-| `ssh [username]@[host]:` | Establishes an SSH connection to a remote host. |
-
 ### System Mode:
 
 | Command | Description |
