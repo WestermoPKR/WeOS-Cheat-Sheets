@@ -30,9 +30,11 @@ Link zu https://ftdichip.com/drivers/vcp-drivers/
 > 5.2.2
 ## Accessing the CLI via SSH:
 
-###Recommended SSH Clients:
- Win32: PuTTY, https://www.chiark.greenend.org.uk/~sgtatham/putty/
- UNIX OpenSSH, https://www.openssh.com
+### Recommended SSH Clients:
+| OS | Software | Link |
+| :--- | :--- |
+| Windows | PuTTY | https://www.chiark.greenend.org.uk/~sgtatham/putty/ |
+| UNIX | OpenSSH | https://www.openssh.com |
 
 
 
