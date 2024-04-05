@@ -64,15 +64,17 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 ### Configuration Mode:
 
-| Command | Description |
-| :--- | :--- |
-| `configure` | Enters Global Configuration context. | 
-| `aaa username [user] [password]` | Set a new password for a user. |
-| `system location [location]` | Sets a location for this device. |
-| `system hostname [hostname]` | Configures the device hostname. |
-| `iface []:` | Enters configuration mode for a specific interface.address [ip_address] [subnet_mask]:` | Configures the IP address and subnet mask for an interface. |
-| `no shutdown:` | Enables a previously disabled interface. |
-| `shutdown:` | Disables an interface. |
+| Command | Description | OS Version
+| :--- | :--- | :--- |
+| `configure` | Enters Global Configuration context. | WeOS4/5 | 
+| `aaa username [user] [password]` | Set a new password for a user. | WeOS4/5 |
+| `system location [location]` | Sets a location for this device. | WeOS4/5 |
+| `system hostname [hostname]` | Configures the device hostname. | WeOS4/5 |
+| `iface [interface]:` | Enters configuration mode for a specific interface. WeOS4/5 |
+| `address [ip_address] [subnet_mask]:` | Configures the IP address and subnet mask for an interface. | WeOS4 |
+| `address [ip_address] [subnet_mask]:` | Configures the IP address and subnet mask for an interface. | WeOS5 |
+| `no shutdown:` | Enables a previously disabled interface. | WeOS4/5 |
+| `shutdown:` | Disables an interface. | WeOS4/5 |
 
 
 ### System Mode:
