@@ -25,9 +25,8 @@ Password: westermo
 | Parity | None |
 | Flow control | None |
 
-Link zu https://ftdichip.com/drivers/vcp-drivers/
+Virtual COM port (VCP) driver: https://ftdichip.com/drivers/vcp-drivers/
 
-> 5.2.2
 ## Accessing the CLI via SSH:
 
 ### Recommended SSH Clients:
