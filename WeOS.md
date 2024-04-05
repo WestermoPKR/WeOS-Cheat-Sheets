@@ -71,11 +71,14 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `system location [location]` | Sets a location for this device. | WeOS4/5 |
 | `system hostname [hostname]` | Configures the device hostname. | WeOS4/5 |
 | `iface [interface]:` | Enters configuration mode for a specific interface. | WeOS4/5 |
-| `address [ip_address] [subnet_mask]:` | Configures the IP address and subnet mask for an interface. | WeOS4 |
-| `inet static [ip_address/prefix]:` | Configures the IP address and subnet mask for an interface. | WeOS5 |
+| `address [ip_address] [subnet_mask]` | Configures the IP address and subnet mask for an interface. | WeOS4 |
+| `inet static [ip_address/prefix]` | Configures the IP address and subnet mask for an interface. | WeOS5 |
 | `vlan [VID]` |Creates a VLAN | WeOS4/5 |
 | `no shutdown:` | Enables a disabled interface. | WeOS4/5 |
 | `shutdown:` | Disables an interface. | WeOS4/5 |
+| `ntp server [FQDN/IP-ADDR]` |Sets an NTP for this device | WeOS4 |
+| `ntp peer [FQDNP-ADDR]` |Sets an NTP for this device | WeOS4 |
+
 
 
 ### System Mode:
