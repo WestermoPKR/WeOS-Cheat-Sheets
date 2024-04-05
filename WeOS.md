@@ -72,8 +72,9 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `system hostname [hostname]` | Configures the device hostname. | WeOS4/5 |
 | `iface [interface]:` | Enters configuration mode for a specific interface. | WeOS4/5 |
 | `address [ip_address] [subnet_mask]:` | Configures the IP address and subnet mask for an interface. | WeOS4 |
-| `address [ip_address] [subnet_mask]:` | Configures the IP address and subnet mask for an interface. | WeOS5 |
-| `no shutdown:` | Enables a previously disabled interface. | WeOS4/5 |
+| `inet static [ip_address/prefix]:` | Configures the IP address and subnet mask for an interface. | WeOS5 |
+| `vlan [VID]` |Creates a VLAN | WeOS4/5 |
+| `no shutdown:` | Enables a disabled interface. | WeOS4/5 |
 | `shutdown:` | Disables an interface. | WeOS4/5 |
 
 
