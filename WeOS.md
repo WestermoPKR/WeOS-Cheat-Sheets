@@ -7,8 +7,6 @@ To login via the console port you need the username and password. Currently ther
 | :--- | :--- |
 | admin | westermo | 
 
-Password: westermo
-
 ### WeOS5
 | Username | Password |
 | :--- | :--- |
