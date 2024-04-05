@@ -43,8 +43,8 @@ From Global Configuration, users can navigate to specific contexts for protocols
 ### Configuration Mode:
 
 | Command | Description | Syntax |
-| :--- | :--- |
-| `config terminal:` | Enters configuration mode. |
+| :--- | :--- | :--- | 
+| `config terminal:` | Enters configuration mode. | 
 | `description [description_text]:` | Configures a description for an interface. |
 | `enable password [password]:` | Sets a password for privileged mode. |
 | `hostname [hostname]:` | Configures the device hostname. |
