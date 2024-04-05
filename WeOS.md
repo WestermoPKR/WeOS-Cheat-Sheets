@@ -26,6 +26,8 @@ To login via the console port you need the username and password. Currently ther
 Virtual COM port (VCP) driver: https://ftdichip.com/drivers/vcp-drivers/
 
 ## Accessing the CLI via SSH:
+To access the CLI via SSH, you need an SSH client, the switch IP address, and account credentials (username/password).
+
 
 ### Recommended SSH Clients:
 
