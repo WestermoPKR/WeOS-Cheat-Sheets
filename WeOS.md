@@ -84,7 +84,7 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `no shutdown:` | Enables a disabled interface. | WeOS4/5 |
 | `shutdown:` | Disables an interface. | WeOS4/5 |
 | `ntp server [FQDN/IP-ADDR]` |Sets an NTP for this device | WeOS4 |
-| `ntp peer [FQDNP-ADDR]` |Sets an NTP for this device | WeOS4 |
+| `ntp peer [FQDNP-ADDR]` |Sets an NTP for this device | WeOS5 |
 
 
 
