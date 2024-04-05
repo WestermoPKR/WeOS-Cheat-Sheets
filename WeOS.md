@@ -52,20 +52,6 @@ From the Admin Exec context, users can access the Global Configuration context.
 Here, they can set device parameters of global significance, like hostname and location. 
 From Global Configuration, users can navigate to specific contexts for protocols or device entities such as ports, VLANs, interfaces, and FRNT.
 
-
-### Configuration Mode:
-
-| Command | Description |
-| :--- | :--- |
-| `configure` | Enters configuration mode. | 
-| `description [description_text]:` | Configures a description for an interface. |
-| `enable password [password]:` | Sets a password for privileged mode. |
-| `hostname [hostname]:` | Configures the device hostname. |
-| `interface [interface_name]:` | Enters configuration mode for a specific interface. |
-| `ip address [ip_address] [subnet_mask]:` | Configures the IP address and subnet mask for an interface. |
-| `no shutdown:` | Enables a previously disabled interface. |
-| `shutdown:` | Disables an interface. |
-
 ### Monitoring and Diagnostics:
 
 | Command | Description |
@@ -75,6 +61,19 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `show interfaces:` | Displays information about interfaces. |
 | `show ip route:` | Displays the IP routing table. |
 | `traceroute [destination]:` | Performs a traceroute to the destination. |
+
+### Configuration Mode:
+
+| Command | Description |
+| :--- | :--- |
+| `configure` | Enters Global Configuration context. | 
+| `aaa username [user] [password]` | Set a new password for a user. |
+| `system location [location]` | Sets a location for this device. |
+| `system hostname [hostname]` | Configures the device hostname. |
+| `iface []:` | Enters configuration mode for a specific interface.address [ip_address] [subnet_mask]:` | Configures the IP address and subnet mask for an interface. |
+| `no shutdown:` | Enables a previously disabled interface. |
+| `shutdown:` | Disables an interface. |
+
 
 ### System Mode:
 
