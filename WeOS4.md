@@ -32,7 +32,7 @@ Link zu https://ftdichip.com/drivers/vcp-drivers/
 
 ### Recommended SSH Clients:
 | OS | Software | Link |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | Windows | PuTTY | https://www.chiark.greenend.org.uk/~sgtatham/putty/ |
 | UNIX | OpenSSH | https://www.openssh.com |
 
