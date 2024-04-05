@@ -31,7 +31,7 @@ Virtual COM port (VCP) driver: https://ftdichip.com/drivers/vcp-drivers/
 
 | OS | Software | Link |
 | :--- | :--- | :--- |
-| Windows | PuTTY | [download](https://www.chiark.greenend.org.uk/~sgtatham/putty/](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) |
+| Windows | PuTTY | [download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) |
 | UNIX | OpenSSH | [download](https://www.openssh.com) |
 
 
