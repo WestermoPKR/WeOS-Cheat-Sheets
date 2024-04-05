@@ -38,7 +38,6 @@ Virtual COM port (VCP) driver: https://ftdichip.com/drivers/vcp-drivers/
 
 
 
-
 ### WeOS4 Cheat Sheet
 
 ![photoeffekte com_-removebg-preview](https://github.com/WesterMario/WeOS4-Cheat-Sheet/assets/166021733/21fab82e-a942-445f-9f93-186e6a2bca6d)
