@@ -15,7 +15,7 @@ Password: westermo
 | admin | admin |
 
 
-### Console Port Configuration:
+## Console Port Configuration:
 
 | Setting | Value |
 | :--- | :--- |
@@ -28,6 +28,14 @@ Password: westermo
 Link zu https://ftdichip.com/drivers/vcp-drivers/
 
 > 5.2.2
+## Accessing the CLI via SSH:
+
+###Recommended SSH Clients:
+ Win32: PuTTY, https://www.chiark.greenend.org.uk/~sgtatham/putty/
+ UNIX OpenSSH, https://www.openssh.com
+
+
+
 
 ### WeOS4 Cheat Sheet
 
