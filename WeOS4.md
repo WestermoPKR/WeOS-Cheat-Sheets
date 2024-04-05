@@ -10,9 +10,9 @@ To login via the console port you need the username and password. Currently ther
 Password: westermo
 
 ### WeOS5
-Login: admin
-
-Password: admin
+| Username | Password |
+| :--- | :--- |
+| admin | admin |
 
 
 ### Console Port Configuration:
