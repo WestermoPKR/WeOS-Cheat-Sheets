@@ -52,14 +52,21 @@ From the Admin Exec context, users can access the Global Configuration context.
 Here, they can set device parameters of global significance, like hostname and location. 
 From Global Configuration, users can navigate to specific contexts for protocols or device entities such as ports, VLANs, interfaces, and FRNT.
 
-### Monitoring and Diagnostics:
+### How to navigate in the different context menus:
+
+![photoeffekte com__1_-removebg-preview](https://github.com/WesterMario/WeOS4-Cheat-Sheet/assets/166021733/0a79ccf2-3f10-43f8-b897-830847777f88)
+
+
+### Admin Exec context:
 
 | Command | Description |
 | :--- | :--- |
-| `ping [destination]:` | Sends ICMP echo requests to the destination. |
-| `show arp:` | Displays the ARP table. |
-| `show interfaces:` | Displays information about interfaces. |
+| `show` | The "show" command displays various information such as configurations, statistics, or status, depending on the specific context or options used. |
+| `show ifaces` | Displays information about interfaces. |
 | `show ip route:` | Displays the IP routing table. |
+| `show arp` | Displays the ARP table. |
+| `show system` | Displays system information about the device. |
+| `ping [destination]:` | Sends ICMP echo requests to the destination. |
 | `traceroute [destination]:` | Performs a traceroute to the destination. |
 
 ### Global Configuration Context:
