@@ -4,10 +4,12 @@ To login via the console port you need the username and password. Currently ther
 
 # WeOS4
 Login: admin
+
 Password: westermo
 
 # WeOS5
 Login: admin
+
 Password: admin
 
 
