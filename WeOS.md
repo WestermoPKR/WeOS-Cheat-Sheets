@@ -62,7 +62,7 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `show ip route:` | Displays the IP routing table. |
 | `traceroute [destination]:` | Performs a traceroute to the destination. |
 
-### Configuration Mode:
+### Global Configuration Context:
 
 | Command | Description | OS Version
 | :--- | :--- | :--- |
