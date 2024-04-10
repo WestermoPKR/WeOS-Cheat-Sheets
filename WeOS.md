@@ -59,15 +59,21 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 ### Admin Exec context:
 
-| Command | Description |
-| :--- | :--- |
-| `show` | The "show" command displays various information such as configurations, statistics, or status, depending on the specific context or options used. |
-| `show ifaces` | Displays information about interfaces. |
-| `show ip route:` | Displays the IP routing table. |
-| `show arp` | Displays the ARP table. |
-| `show system` | Displays system information about the device. |
-| `ping [destination]:` | Sends ICMP echo requests to the destination. |
-| `traceroute [destination]:` | Performs a traceroute to the destination. |
+| Command | Description | OS Version |
+| :--- | :--- | :--- |
+| `show` | The "show" command displays various information such as configurations, statistics or status. | WeOS4/5 | 
+| `show ifaces` | Displays information about interfaces. | WeOS4/5 |
+| `show ip route:` | Displays the IP routing table. | WeOS4/5 |
+| `show arp` | Displays the ARP table. | WeOS4/5 |
+| `show system` | Displays system information about the device. | WeOS4/5 |
+| `show system information` | . | WeOS4/5 |
+| `ping [destination]:` | Sends ICMP echo requests to the destination. | WeOS4/5 |
+| `traceroute [destination]:` | Performs a traceroute to the destination. | WeOS4/5 |
+| `ipcalc []:` | . |
+
+
+
+
 
 ### Global Configuration Context:
 
