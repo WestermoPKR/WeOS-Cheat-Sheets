@@ -56,21 +56,31 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 ![photoeffekte com__1_-removebg-preview](https://github.com/WesterMario/WeOS4-Cheat-Sheet/assets/166021733/0a79ccf2-3f10-43f8-b897-830847777f88)
 
+| Command | Description | OS Version |
+| :--- | :--- | :--- |
+| `configure` | Enters Global Configuration context. | WeOS4/5 |  
+| `logout` | . | WeOS4/5 |
+| `` | . | WeOS4/5 |
 
 ### Admin Exec context:
 
 | Command | Description | OS Version |
 | :--- | :--- | :--- |
 | `show` | The "show" command displays various information such as configurations, statistics or status. | WeOS4/5 | 
+| `do` | . | WeOS4/5 |
 | `show ifaces` | Displays information about interfaces. | WeOS4/5 |
 | `show ip route:` | Displays the IP routing table. | WeOS4/5 |
 | `show arp` | Displays the ARP table. | WeOS4/5 |
+| `show log` | Displays the logs of the device. | WeOS4/5 
 | `show system` | Displays system information about the device. | WeOS4/5 |
 | `show system information` | . | WeOS4/5 |
 | `ping [destination]:` | Sends ICMP echo requests to the destination. | WeOS4/5 |
 | `traceroute [destination]:` | Performs a traceroute to the destination. | WeOS4/5 |
-| `ipcalc []:` | . |
-
+| `ipcalc []:` | . |.|
+| `repeat` |.|.|
+| `uptime` |.|.|
+|`uptime` |.|.|
+|``
 
 
 
@@ -79,7 +89,6 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 | Command | Description | OS Version
 | :--- | :--- | :--- |
-| `configure` | Enters Global Configuration context. | WeOS4/5 | 
 | `aaa username [user] [password]` | Set a new password for a user. | WeOS4/5 |
 | `system location [location]` | Sets a location for this device. | WeOS4/5 |
 | `system hostname [hostname]` | Configures the device hostname. | WeOS4/5 |
