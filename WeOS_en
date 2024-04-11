@@ -59,12 +59,12 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | Command | Description | OS Version |
 | :--- | :--- | :--- |
 | `configure` | Enters Global Configuration context. | WeOS4/5 |  
-| `logout` | . | WeOS4/5 |
-| `vlan` | . | WeOS4/5 |
-| `port` | . | WeOS4/5 |
-| `ip` | . | WeOS4/5 |
-| `firewall` | . | WeOS4/5 |
-|`end`| . | WeOS4/5 |
+| `logout` | Logged you out of the device | WeOS4/5 |
+| `vlan` | Enters VLAN Config. Context from Global Config. Context | WeOS4/5 |
+| `port` | Enters Port Config. Context from Global Config. Context | WeOS4/5 |
+| `ip` | Enters IP Config. Context from Global Config. Context | WeOS4/5 |
+| `firewall` | Enters Firewall/NAT Config. Context from General IP Config. Context | WeOS4/5 |
+|`end`| Return to the previous mode | WeOS4/5 |
 
 ### Admin Exec context:
 
