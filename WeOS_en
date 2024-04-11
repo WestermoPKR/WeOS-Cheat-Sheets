@@ -117,9 +117,9 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 ### Handling of files:
 
-| Command | Description |
-| :--- | :--- |
-| `copy [source] [destination]:` | Copies files between different locations. | WeOS4/5|
+| Command | Description | OS Version
+| :--- | :--- | :--- |
+| `copy [source] [destination]:`| Copies files between different locations. | WeOS4/5|
 
 
 ### Basic Commands:
