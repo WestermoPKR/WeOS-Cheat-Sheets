@@ -60,7 +60,11 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | :--- | :--- | :--- |
 | `configure` | Enters Global Configuration context. | WeOS4/5 |  
 | `logout` | . | WeOS4/5 |
-| `` | . | WeOS4/5 |
+| `vlan` | . | WeOS4/5 |
+| `port` | . | WeOS4/5 |
+| `ip` | . | WeOS4/5 |
+| `firewall` | . | WeOS4/5 |
+|`end`| . | WeOS4/5 |
 
 ### Admin Exec context:
 
