@@ -61,12 +61,13 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `configure` | Enters Global Configuration context. | WeOS4/5 |  
 | `logout` | Logged you out of the device | WeOS4/5 |
 | `vlan [#]` | Enters VLAN Config. Context from Global Config. Context | WeOS4/5 |
-| <td colspan="3">`port eth[#] / dsl[#] /ethx[#] /ser[#]`</td> | Enters Port Config. Context from Global Config. Context.| <td colspan="3">WeOS4</td> |
-|| Viper devices: `ethx[#]`||
-|| LynxDSS devices: `ser[#]` ||
+|`port eth[#] / dsl[#] /ethx[#] /ser[#]`| Enters Port Config. Context from Global Config. Context. |WeOS4/5|
+||Viper devices: `ethx[#]`||
+||LynxDSS devices: `ser[#]`||
 | `ip` | Enters IP Config. Context from Global Config. Context | WeOS4/5 |
 | `firewall` | Enters Firewall/NAT Config. Context from General IP Config. Context | WeOS4/5 |
 |`end`| Return to the previous mode | WeOS4/5 |
+
 
 ### Admin Exec context:
 
@@ -80,13 +81,18 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `show log` | Displays the logs of the device. | WeOS4/5 
 | `show system` | Displays system information about the device. | WeOS4/5 |
 | `show system information` | . | WeOS4/5 |
+| `show version:` | Displays information about the current system version. |
 | `ping [destination]:` | Sends ICMP echo requests to the destination. | WeOS4/5 |
 | `traceroute [destination]:` | Performs a traceroute to the destination. | WeOS4/5 |
 | `ipcalc []:` | . |.|
 | `repeat` |.|.|
 | `uptime` |.|.|
 |`uptime` |.|.|
-|``
+|`ssh`|.|.|
+|`ipcalc` |.|.|
+|`reboot` |.|.|
+|`ipconfig`|.|WeOS4|
+|`follow`|.|.|
 
 
 
@@ -109,24 +115,17 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 
 
-### System Mode:
+### Handling of files:
 
 | Command | Description |
 | :--- | :--- |
-| `copy [source] [destination]:` | Copies files between different locations. |
-| `show log:` | Displays log messages. |
-| `show processes:` | Displays running processes. |
-| `show version:` | Displays information about the current system version. |
+| `copy [source] [destination]:` | Copies files between different locations. | WeOS4/5|
+
 
 ### Basic Commands:
 
 | Command | Description |
-| :--- | :--- |
-| `exit:` | Exits the CLI session and returns to the previous menu. |
-| `help:` | Displays a list of available commands or help for a specific command. |
-| `reload:` | Restarts the device. |
-| `save:` | Saves the current configuration. |
-| `set:` | Sets configuration parameters. |
-| `show:` | Displays information such as configurations, statistics, or status. |
+| :--- | :--- |:--- |
+||||
 
 **Note:** Replace placeholders like [interface_name], [ip_address], [subnet_mask], etc.
