@@ -62,8 +62,8 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `logout` | Logged you out of the device | WeOS4/5 |
 | `vlan [#]` | Enters VLAN Config. Context from Global Config. Context | WeOS4/5 |
 | `port eth[#] / dsl[#] /ethx[#] /ser[#]` | Enters Port Config. Context from Global Config. Context.| WeOS4 |
-|| Viper devices: ethx[#]||
-|| WeOs5 devices: ser[#] ||
+| ^^ | Viper devices: ethx[#]| ^^|
+| ^^ | WeOs5 devices: ser[#] | ^^ |
 | `ip` | Enters IP Config. Context from Global Config. Context | WeOS4/5 |
 | `firewall` | Enters Firewall/NAT Config. Context from General IP Config. Context | WeOS4/5 |
 |`end`| Return to the previous mode | WeOS4/5 |
