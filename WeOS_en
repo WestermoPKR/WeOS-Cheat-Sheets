@@ -39,8 +39,7 @@ To access the CLI via SSH, you need an SSH client, the switch IP address, and ac
 
 
 # WeOS Cheat Sheet
-
-![photoeffekte com_-removebg-preview](https://github.com/WesterMario/WeOS4-Cheat-Sheet/assets/166021733/21fab82e-a942-445f-9f93-186e6a2bca6d)
+![alt text](<Screenshot 2024-04-16 155850.png>)
 
 
 ### Admin Exec context
@@ -54,16 +53,16 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 ### How to navigate in the different context menus:
 
-![photoeffekte com__1_-removebg-preview](https://github.com/WesterMario/WeOS4-Cheat-Sheet/assets/166021733/0a79ccf2-3f10-43f8-b897-830847777f88)
+![alt text](<Screenshot 2024-04-16 155831.png>)
 
 | Command | Description | OS Version |
 | :--- | :--- | :--- |
 | `configure` | Enters Global Configuration context. | WeOS4/5 |  
 | `logout` | Logged you out of the device | WeOS4/5 |
 | `vlan [#]` | Enters VLAN Config. Context from Global Config. Context | WeOS4/5 |
-|`port eth[#] / dsl[#] /ethx[#] /ser[#]`| Enters Port Config. Context from Global Config. Context. |WeOS4/5|
-||Viper devices: `ethx[#]`||
-||LynxDSS devices: `ser[#]`||
+|`port eth[#] / dsl[#]`| Enters Port Config. Context from Global Config. Context. |WeOS4/5|
+|| - Viper devices: `ethx[#]`||
+|| - LynxDSS devices: `ser[#]`||
 | `ip` | Enters IP Config. Context from Global Config. Context | WeOS4/5 |
 | `firewall` | Enters Firewall/NAT Config. Context from General IP Config. Context | WeOS4/5 |
 |`end`| Return to the previous mode | WeOS4/5 |
@@ -84,11 +83,10 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `show version:` | Displays information about the current system version. |
 | `ping [destination]:` | Sends ICMP echo requests to the destination. | WeOS4/5 |
 | `traceroute [destination]:` | Performs a traceroute to the destination. | WeOS4/5 |
-| `ipcalc []:` | . |.|
-| `repeat` |.|.|
-| `uptime` |.|.|
-|`uptime` |.|.|
-|`ssh`|.|.|
+| `ipcalc [address]:` | Provides detailed information about IP addresses and subnets |.|
+| `repeat [command]` | Execute a specified command multiple times |.|
+| `uptime` | Duration since the last restart  |.|
+|`ssh`|  |.|
 |`ipcalc` |.|.|
 |`reboot` |.|.|
 |`ipconfig`|.|WeOS4|
