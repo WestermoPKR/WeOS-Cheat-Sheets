@@ -1,5 +1,5 @@
 
-[Logo](https://github.com/user-attachments/assets/299b3085-cc8f-4760-bdf3-71019f2d9bae)
+![Logo](https://github.com/user-attachments/assets/299b3085-cc8f-4760-bdf3-71019f2d9bae)
 
 lcome to the WeOS Cheat Sheets
 
