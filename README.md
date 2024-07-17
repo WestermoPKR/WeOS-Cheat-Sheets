@@ -16,11 +16,6 @@ Welcome to the ultimate cheat sheets for WeOS4 and WeOS5! Whether you're a seaso
 The WeOS4 cheat sheet includes:
 - Basic Commands
 
-### Highlights
-- Quick access to frequently used commands
-- Examples and syntax for common tasks
-- Best practices for network configuration
-
 ---
 
 ## How to Use
