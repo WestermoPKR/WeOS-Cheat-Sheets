@@ -4,17 +4,14 @@ Welcome to the ultimate cheat sheets for WeOS4 and WeOS5! Whether you're a seaso
 
 ## Cheat Sheets
 
-- [WeOS4/5 Cheat Sheet english](#weos4-cheat-sheet)
-- [WeOS4/5 Cheat Sheet german](#weos5-cheat-sheet)
+- [WeOS4/5 Cheat Sheet english](https://github.com/WesterMario/WeOS-Cheat-Sheets/blob/WeOS/WeOS_en.md)
+- [WeOS4/5 Cheat Sheet german](https://github.com/WesterMario/WeOS-Cheat-Sheets/blob/WeOS/WeOS_de.md)
 
 ---
 
 ### Overview
 The WeOS4 cheat sheet includes:
 - Basic Commands
-- Configuration Tips
-- Troubleshooting Steps
-- Security Settings
 
 ### Highlights
 - Quick access to frequently used commands
