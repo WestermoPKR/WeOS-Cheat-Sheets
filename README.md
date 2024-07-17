@@ -18,3 +18,16 @@ The WeOS4 cheat sheet includes:
 - Examples and syntax for common tasks
 - Best practices for network configuration
 
+---
+
+## How to Use
+
+1. **Download**: Click on the respective links to download the cheat sheets.
+2. **Print**: Keep a printed copy at your workstation for quick reference.
+3. **Share**: Share these cheat sheets with your team to ensure everyone has access to the same information.
+
+Happy networking!
+
+---
+
+For more information and resources, visit our [official documentation](https://www.westermo.com/uk/solutions/weos/user-guide) or ask our support-team. [contact support](mailto:support.at@westermo.com)
