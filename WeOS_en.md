@@ -122,7 +122,7 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `upgrade secondary [source_ip] [filename.pkg]`| Upgrade secondary firmware from an FTP/TFTP server. | WeOS4/5|
 | `upgrade boot [source_ip] [filename.pkg]`| Upgrade bootloader from an FTP/TFTP server. | WeOS4/5|
 
-# General Abbreviations in Network Technology
+### General Abbreviations in Network Technology
 
 | Abbreviation | Context (OSI Layer)             | Explanation                                                  |
 |--------------|---------------------------------|--------------------------------------------------------------|
@@ -169,7 +169,7 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | WAN          | Network (Layer 1/2)             | Wide Area Network                                            |
 | WWW          | Internet (Layer 7)              | World Wide Web                                               |
 
-# Switching Abbreviations in Network Technology
+### Switching Abbreviations in Network Technology
 
 | Abbreviation | Context (OSI Layer)             | Explanation                                                  |
 |--------------|---------------------------------|--------------------------------------------------------------|
@@ -189,7 +189,7 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | WLAN         | Network (Layer 1/2)             | Wireless Local Area Network                                  |
 | WPA          | Security (Layer 2)              | Wi-Fi Protected Access                                       |
 
-# Routing Abbreviations in Network Technology
+### Routing Abbreviations in Network Technology
 
 | Abbreviation | Context (OSI Layer)             | Explanation                                                  |
 |--------------|---------------------------------|--------------------------------------------------------------|
