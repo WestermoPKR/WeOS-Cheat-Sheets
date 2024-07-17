@@ -1,7 +1,7 @@
-![grafik](https://github.com/user-attachments/assets/6a9a9c69-c9ea-4172-8bf8-2dd080fa1eeb)
 
+[Logo](https://github.com/user-attachments/assets/299b3085-cc8f-4760-bdf3-71019f2d9bae)
 
-# Welcome to the WeOS Cheat Sheets
+lcome to the WeOS Cheat Sheets
 
 Welcome to the ultimate cheat sheets for WeOS4 and WeOS5! Whether you're a seasoned network engineer or just starting, these cheat sheets provide a handy reference to essential commands and configurations.
 
