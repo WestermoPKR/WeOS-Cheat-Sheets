@@ -111,3 +111,96 @@ Vom globalen Konfigurationskontext aus können Benutzer zu spezifischen Kontexte
 | `help:` | Zeigt eine Liste der verfügbaren Befehle oder Hilfe für einen bestimmten Befehl an. |
 | `reload:` | Startet das Gerät neu. |
 | `save:` | Speichert die aktuelle Konfiguration. |
+
+
+# Allgemeine Abkürzungen in der Netzwerktechnik
+
+| Abkürzung | Kontext (OSI-Schicht)              | Erklärung                                                    |
+|-----------|------------------------------------|--------------------------------------------------------------|
+| AAA       | Sicherheit                         | Authentifizierung, Autorisierung und Abrechnung              |
+| ADSL      | Verbindung (Schicht 1)             | Asymmetric Digital Subscriber Line                           |
+| CLI       | Benutzeroberfläche                 | Command Line Interface                                       |
+| DMZ       | Sicherheit                         | Entmilitarisierte Zone                                       |
+| DNS       | Namensauflösung (Schicht 7)        | Domain Name System                                           |
+| DoS       | Sicherheit                         | Denial of Service                                            |
+| DSL       | Verbindung (Schicht 1)             | Digital Subscriber Line                                      |
+| DSSS      | Übertragungstechnik (Schicht 1)    | Direct Sequence Spread Spectrum                              |
+| FTP       | Protokoll (Schicht 7)              | File Transfer Protocol                                       |
+| GRE       | Tunneling (Schicht 3)              | Generic Routing Encapsulation                                |
+| GUI       | Benutzeroberfläche                 | Graphical User Interface                                     |
+| HTTP      | Protokoll (Schicht 7)              | Hypertext Transfer Protocol                                  |
+| HTTPS     | Protokoll (Schicht 7)              | Hypertext Transfer Protocol Secure                           |
+| IKE       | Sicherheit (Schicht 4)             | Internet Key Exchange                                        |
+| IMAP      | Protokoll (Schicht 7)              | Internet Message Access Protocol                             |
+| IPsec     | Sicherheit (Schicht 3)             | Internet Protocol Security                                   |
+| ISP       | Dienstanbieter                     | Internet Service Provider                                    |
+| LDAP      | Verzeichnisdienste (Schicht 7)     | Lightweight Directory Access Protocol                        |
+| MPLS      | Datenübertragung (Schicht 2.5)     | Multiprotocol Label Switching                                |
+| MTU       | Datenübertragung (Schicht 3)       | Maximum Transmission Unit                                    |
+| NTP       | Zeitprotokoll (Schicht 7)          | Network Time Protocol                                        |
+| PAP       | Sicherheit (Schicht 2)             | Password Authentication Protocol                             |
+| PoE       | Stromversorgung                    | Power over Ethernet                                          |
+| POP3      | Protokoll (Schicht 7)              | Post Office Protocol 3                                       |
+| PPP       | Protokoll (Schicht 2)              | Point-to-Point Protocol                                      |
+| PPTP      | Tunneling (Schicht 2)              | Point-to-Point Tunneling Protocol                            |
+| QoS       | Datenübertragung (Schicht 2/3)     | Quality of Service                                           |
+| RMON      | Netzwerkmanagement (Schicht 7)     | Remote Network Monitoring                                    |
+| SCP       | Protokoll (Schicht 7)              | Secure Copy Protocol                                         |
+| SFTP      | Protokoll (Schicht 7)              | Secure File Transfer Protocol                                |
+| SMTP      | Protokoll (Schicht 7)              | Simple Mail Transfer Protocol                                |
+| SNMP      | Netzwerkmanagement (Schicht 7)     | Simple Network Management Protocol                           |
+| SSH       | Protokoll (Schicht 7)              | Secure Shell                                                 |
+| SSL       | Sicherheit (Schicht 6)             | Secure Sockets Layer                                         |
+| TCP       | Protokoll (Schicht 4)              | Transmission Control Protocol                                |
+| TFTP      | Protokoll (Schicht 7)              | Trivial File Transfer Protocol                               |
+| TLS       | Sicherheit (Schicht 6)             | Transport Layer Security                                     |
+| UDP       | Protokoll (Schicht 4)              | User Datagram Protocol                                       |
+| VoIP      | Kommunikation (Schicht 7)          | Voice over Internet Protocol                                 |
+| VPN       | Tunneling (Schicht 3)              | Virtual Private Network                                      |
+| WAN       | Netzwerk (Schicht 1/2)             | Wide Area Network                                            |
+| WWW       | Internet (Schicht 7)               | World Wide Web                                               |
+
+# Abkürzungen für Switching in der Netzwerktechnik
+
+| Abkürzung | Kontext (OSI-Schicht)              | Erklärung                                                    |
+|-----------|------------------------------------|--------------------------------------------------------------|
+| ACL       | Sicherheit (Schicht 2/3)           | Access Control List                                          |
+| AP        | Netzwerkgerät (Schicht 2)          | Access Point                                                 |
+| ARP       | Protokoll (Schicht 2)              | Address Resolution Protocol                                  |
+| ATM       | Verbindung (Schicht 2)             | Asynchronous Transfer Mode                                   |
+| CSMA/CD   | Netzwerkprotokoll (Schicht 2)      | Carrier Sense Multiple Access with Collision Detection       |
+| LAN       | Netzwerk (Schicht 1/2)             | Local Area Network                                           |
+| MAC       | Adressierung (Schicht 2)           | Media Access Control                                         |
+| PPP       | Protokoll (Schicht 2)              | Point-to-Point Protocol                                      |
+| PPTP      | Tunneling (Schicht 2)              | Point-to-Point Tunneling Protocol                            |
+| STP       | Protokoll (Schicht 2)              | Spanning Tree Protocol                                       |
+| VLAN      | Netzwerk (Schicht 2)               | Virtual Local Area Network                                   |
+| WEP       | Sicherheit (Schicht 2)             | Wired Equivalent Privacy                                     |
+| Wi-Fi     | Netzwerk (Schicht 1/2)             | Wireless Fidelity                                            |
+| WLAN      | Netzwerk (Schicht 1/2)             | Wireless Local Area Network                                  |
+| WPA       | Sicherheit (Schicht 2)             | Wi-Fi Protected Access                                       |
+
+# Abkürzungen für Routing in der Netzwerktechnik
+
+| Abkürzung | Kontext (OSI-Schicht)              | Erklärung                                                    |
+|-----------|------------------------------------|--------------------------------------------------------------|
+| AS        | Routing (Schicht 3)                | Autonomous System                                            |
+| BGP       | Routing (Schicht 3)                | Border Gateway Protocol                                      |
+| CIDR      | Adressierung (Schicht 3)           | Classless Inter-Domain Routing                               |
+| GRE       | Tunneling (Schicht 3)              | Generic Routing Encapsulation                                |
+| ICMP      | Protokoll (Schicht 3)              | Internet Control Message Protocol                            |
+| IGMP      | Protokoll (Schicht 3)              | Internet Group Management Protocol                           |
+| IP        | Adressierung (Schicht 3)           | Internet Protocol                                            |
+| IPv4      | Adressierung (Schicht 3)           | Internet Protocol version 4                                  |
+| IPv6      | Adressierung (Schicht 3)           | Internet Protocol version 6                                  |
+| MPLS      | Datenübertragung (Schicht 2.5)     | Multiprotocol Label Switching                                |
+| MTU       | Datenübertragung (Schicht 3)       | Maximum Transmission Unit                                    |
+| NAT       | Adressierung (Schicht 3)           | Network Address Translation                                  |
+| OSPF      | Routing (Schicht 3)                | Open Shortest Path First                                     |
+| QoS       | Datenübertragung (Schicht 2/3)     | Quality of Service                                           |
+| RIP       | Routing (Schicht 3)                | Routing Information Protocol                                 |
+| VPN       | Tunneling (Schicht 3)              | Virtual Private Network                                      |
+
+
+### Hinweis: Ersetzen Sie Platzhalter wie [Schnittstellenname], [IP-Adresse], [Subnetzmaske] usw.
+Versionen WeOS 4.33.2 und WeOS 5.20.0
