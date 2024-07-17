@@ -1,4 +1,5 @@
-![grafik](https://github.com/user-attachments/assets/909560ea-f93d-4a06-ac04-5f0b2e4c0037)
+![grafik](https://github.com/user-attachments/assets/6a9a9c69-c9ea-4172-8bf8-2dd080fa1eeb)
+
 
 # Welcome to the WeOS Cheat Sheets
 
