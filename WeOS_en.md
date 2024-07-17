@@ -124,7 +124,6 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 ### Abbreviations:
 
-# Häufig genutzte Abkürzungen in der Netzwerktechnik
 
 | Abkürzung | Kontext (OSI-Layer)                | Erklärung                                                    |
 |-----------|------------------------------------|--------------------------------------------------------------|
