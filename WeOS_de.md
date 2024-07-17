@@ -113,7 +113,7 @@ Vom globalen Konfigurationskontext aus können Benutzer zu spezifischen Kontexte
 | `save:` | Speichert die aktuelle Konfiguration. |
 
 
-# Allgemeine Abkürzungen in der Netzwerktechnik
+### Allgemeine Abkürzungen in der Netzwerktechnik
 
 | Abkürzung | Kontext (OSI-Schicht)              | Erklärung                                                    |
 |-----------|------------------------------------|--------------------------------------------------------------|
@@ -160,7 +160,7 @@ Vom globalen Konfigurationskontext aus können Benutzer zu spezifischen Kontexte
 | WAN       | Netzwerk (Schicht 1/2)             | Wide Area Network                                            |
 | WWW       | Internet (Schicht 7)               | World Wide Web                                               |
 
-# Abkürzungen für Switching in der Netzwerktechnik
+### Abkürzungen für Switching in der Netzwerktechnik
 
 | Abkürzung | Kontext (OSI-Schicht)              | Erklärung                                                    |
 |-----------|------------------------------------|--------------------------------------------------------------|
@@ -180,7 +180,7 @@ Vom globalen Konfigurationskontext aus können Benutzer zu spezifischen Kontexte
 | WLAN      | Netzwerk (Schicht 1/2)             | Wireless Local Area Network                                  |
 | WPA       | Sicherheit (Schicht 2)             | Wi-Fi Protected Access                                       |
 
-# Abkürzungen für Routing in der Netzwerktechnik
+### Abkürzungen für Routing in der Netzwerktechnik
 
 | Abkürzung | Kontext (OSI-Schicht)              | Erklärung                                                    |
 |-----------|------------------------------------|--------------------------------------------------------------|
