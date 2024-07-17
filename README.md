@@ -122,6 +122,78 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `upgrade secondary [source_ip] [filename.pkg]`| Upgrade secondary firmware from an FTP/TFTP server. | WeOS4/5|
 | `upgrade boot [source_ip] [filename.pkg]`| Upgrade bootloader from an FTP/TFTP server. | WeOS4/5|
 
+# Abbreviations:
+# Häufig genutzte Abkürzungen in der Netzwerktechnik
+
+| Abkürzung | Kontext (OSI-Layer)                | Erklärung                                                    |
+|-----------|------------------------------------|--------------------------------------------------------------|
+| AAA       | Sicherheit                         | Authentication, Authorization, and Accounting                |
+| ACL       | Sicherheit (Layer 2/3)             | Access Control List                                          |
+| ADSL      | Verbindung (Layer 1)               | Asymmetric Digital Subscriber Line                           |
+| AP        | Netzwerkgeräte (Layer 2)           | Access Point                                                 |
+| ARP       | Protokoll (Layer 2)                | Address Resolution Protocol                                  |
+| AS        | Routing (Layer 3)                  | Autonomous System                                            |
+| ATM       | Verbindung (Layer 2)               | Asynchronous Transfer Mode                                   |
+| BGP       | Routing (Layer 3)                  | Border Gateway Protocol                                      |
+| CIDR      | Adressierung (Layer 3)             | Classless Inter-Domain Routing                               |
+| CLI       | Benutzerschnittstelle              | Command Line Interface                                       |
+| CSMA/CD   | Netzwerkprotokoll (Layer 2)        | Carrier Sense Multiple Access with Collision Detection       |
+| DHCP      | Protokoll (Layer 7)                | Dynamic Host Configuration Protocol                          |
+| DMZ       | Sicherheit                         | Demilitarized Zone                                           |
+| DNS       | Namensauflösung (Layer 7)          | Domain Name System                                           |
+| DoS       | Sicherheit                         | Denial of Service                                            |
+| DSL       | Verbindung (Layer 1)               | Digital Subscriber Line                                      |
+| DSSS      | Übertragungstechnik (Layer 1)      | Direct Sequence Spread Spectrum                              |
+| FTP       | Protokoll (Layer 7)                | File Transfer Protocol                                       |
+| GRE       | Tunneling (Layer 3)                | Generic Routing Encapsulation                                |
+| GUI       | Benutzerschnittstelle              | Graphical User Interface                                     |
+| HTTP      | Protokoll (Layer 7)                | Hypertext Transfer Protocol                                  |
+| HTTPS     | Protokoll (Layer 7)                | Hypertext Transfer Protocol Secure                           |
+| ICMP      | Protokoll (Layer 3)                | Internet Control Message Protocol                            |
+| IGMP      | Protokoll (Layer 3)                | Internet Group Management Protocol                           |
+| IKE       | Sicherheit (Layer 4)               | Internet Key Exchange                                        |
+| IMAP      | Protokoll (Layer 7)                | Internet Message Access Protocol                             |
+| IP        | Adressierung (Layer 3)             | Internet Protocol                                            |
+| IPsec     | Sicherheit (Layer 3)               | Internet Protocol Security                                   |
+| IPv4      | Adressierung (Layer 3)             | Internet Protocol version 4                                  |
+| IPv6      | Adressierung (Layer 3)             | Internet Protocol version 6                                  |
+| ISP       | Dienstanbieter                     | Internet Service Provider                                    |
+| LAN       | Netzwerk (Layer 1/2)               | Local Area Network                                           |
+| LDAP      | Verzeichnisdienste (Layer 7)       | Lightweight Directory Access Protocol                        |
+| MAC       | Adressierung (Layer 2)             | Media Access Control                                         |
+| MPLS      | Datenübertragung (Layer 2.5)       | Multiprotocol Label Switching                                |
+| MTU       | Datenübertragung (Layer 3)         | Maximum Transmission Unit                                    |
+| NAT       | Adressierung (Layer 3)             | Network Address Translation                                  |
+| NTP       | Zeitprotokoll (Layer 7)            | Network Time Protocol                                        |
+| OSPF      | Routing (Layer 3)                  | Open Shortest Path First                                     |
+| PAP       | Sicherheit (Layer 2)               | Password Authentication Protocol                             |
+| PoE       | Stromversorgung                    | Power over Ethernet                                          |
+| POP3      | Protokoll (Layer 7)                | Post Office Protocol 3                                       |
+| PPP       | Protokoll (Layer 2)                | Point-to-Point Protocol                                      |
+| PPTP      | Tunneling (Layer 2)                | Point-to-Point Tunneling Protocol                            |
+| QoS       | Datenübertragung (Layer 2/3)       | Quality of Service                                           |
+| RIP       | Routing (Layer 3)                  | Routing Information Protocol                                 |
+| RMON      | Netzwerkmanagement (Layer 7)       | Remote Network Monitoring                                    |
+| SCP       | Protokoll (Layer 7)                | Secure Copy Protocol                                         |
+| SFTP      | Protokoll (Layer 7)                | Secure File Transfer Protocol                                |
+| SMTP      | Protokoll (Layer 7)                | Simple Mail Transfer Protocol                                |
+| SNMP      | Netzwerkmanagement (Layer 7)       | Simple Network Management Protocol                           |
+| SSH       | Protokoll (Layer 7)                | Secure Shell                                                 |
+| SSL       | Sicherheit (Layer 6)               | Secure Sockets Layer                                         |
+| STP       | Protokoll (Layer 2)                | Spanning Tree Protocol                                       |
+| TCP       | Protokoll (Layer 4)                | Transmission Control Protocol                                |
+| TFTP      | Protokoll (Layer 7)                | Trivial File Transfer Protocol                               |
+| TLS       | Sicherheit (Layer 6)               | Transport Layer Security                                     |
+| UDP       | Protokoll (Layer 4)                | User Datagram Protocol                                       |
+| VLAN      | Netzwerk (Layer 2)                 | Virtual Local Area Network                                   |
+| VoIP      | Kommunikation (Layer 7)            | Voice over Internet Protocol                                 |
+| VPN       | Tunneling (Layer 3)                | Virtual Private Network                                      |
+| WAN       | Netzwerk (Layer 1/2)               | Wide Area Network                                            |
+| WEP       | Sicherheit (Layer 2)               | Wired Equivalent Privacy                                     |
+| Wi-Fi     | Netzwerk (Layer 1/2)               | Wireless Fidelity                                            |
+| WLAN      | Netzwerk (Layer 1/2)               | Wireless Local Area Network                                  |
+| WPA       | Sicherheit (Layer 2)               | Wi-Fi Protected Access                                       |
+| WWW       | Internet (Layer 7)                 | World Wide Web                                               |
 
 
 **Note:** Replace placeholders like [interface_name], [ip_address], [subnet_mask], etc.
