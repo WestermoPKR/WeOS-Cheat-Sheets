@@ -1,3 +1,22 @@
+## Table of Contents
+
+- [Accessing the command line interface](#accessing-the-command-line-interface)
+  - [WeOS4](#weos4)
+  - [WeOS5](#weos5)
+- [Console Port Configuration](#console-port-configuration)
+- [Accessing the CLI via SSH](#accessing-the-cli-via-ssh)
+  - [Recommended SSH Clients](#recommended-ssh-clients)
+- [WeOS Cheat Sheet](#weos-cheat-sheet)
+  - [Admin Exec context](#admin-exec-context)
+  - [Global Configuration context](#global-configuration-context)
+  - [How to navigate in the different context menus](#how-to-navigate-in-the-different-context-menus)
+- [Admin Exec context (Commands)](#admin-exec-context-commands)
+- [Global Configuration Context (Commands)](#global-configuration-context-commands)
+- [Handling of files](#handling-of-files)
+- [General Abbreviations in Network Technology](#general-abbreviations-in-network-technology)
+- [Switching Abbreviations in Network Technology](#switching-abbreviations-in-network-technology)
+- [Routing Abbreviations in Network Technology](#routing-abbreviations-in-network-technology)
+
 # Accessing the command line interface:
 
 To login via the console port you need the username and password. Currently there is only a single user account defined, the administrator user account. Factory default account and password:
