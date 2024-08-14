@@ -14,8 +14,8 @@
 - [Global Configuration Context (Commands)](#global-configuration-context-commands)
 - [Handling of files](#handling-of-files)
 - [General Abbreviations in Network Technology](#general-abbreviations-in-network-technology)
-- [Switching Abbreviations in Network Technology](#switching-abbreviations-in-network-technology)
-- [Routing Abbreviations in Network Technology](#routing-abbreviations-in-network-technology)
+ - [Switching Abbreviations in Network Technology](#switching-abbreviations-in-network-technology)
+ - [Routing Abbreviations in Network Technology](#routing-abbreviations-in-network-technology)
 
 # Accessing the command line interface:
 
