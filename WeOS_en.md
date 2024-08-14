@@ -17,6 +17,7 @@
   - [Switching Abbreviations in Network Technology](#switching-abbreviations-in-network-technology)
   - [Routing Abbreviations in Network Technology](#routing-abbreviations-in-network-technology)
 
+
 # Accessing the command line interface:
 
 To login via the console port you need the username and password. Currently there is only a single user account defined, the administrator user account. Factory default account and password:
@@ -32,6 +33,7 @@ To login via the console port you need the username and password. Currently ther
 | admin | admin |
 
 
+
 ### Console Port Configuration:
 
 | Setting | Value |
@@ -43,6 +45,7 @@ To login via the console port you need the username and password. Currently ther
 | Flow control | None |
 
 Virtual COM port (VCP) driver: https://ftdichip.com/drivers/vcp-drivers/
+
 
 ## Accessing the CLI via SSH:
 To access the CLI via SSH, you need an SSH client, the switch IP address, and account credentials (username/password).
@@ -69,6 +72,7 @@ They can also access specific execution contexts, such as viewing RMON statistic
 From the Admin Exec context, users can access the Global Configuration context.
 Here, they can set device parameters of global significance, like hostname and location. 
 From Global Configuration, users can navigate to specific contexts for protocols or device entities such as ports, VLANs, interfaces, and FRNT.
+
 
 ### How to navigate in the different context menus:
 
