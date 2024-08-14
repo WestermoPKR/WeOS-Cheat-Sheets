@@ -15,6 +15,7 @@ Welcome to the ultimate cheat sheets for WeOS4 and WeOS5! Whether you're a seaso
 ### Overview
 The WeOS4 cheat sheet includes:
 - Basic Commands
+- Abbreviations in Network Technology
 
 ---
 
