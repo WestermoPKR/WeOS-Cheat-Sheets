@@ -1,21 +1,22 @@
 ## Table of Contents
 
-- [Accessing the command line interface](#accessing-the-command-line-interface)
-  - [WeOS4](#weos4)
-  - [WeOS5](#weos5)
+- [Accessing the Command Line Interface](#accessing-the-command-line-interface)
+  - [WeOS 4](#weos-4)
+  - [WeOS 5](#weos-5)
 - [Console Port Configuration](#console-port-configuration)
 - [Accessing the CLI via SSH](#accessing-the-cli-via-ssh)
   - [Recommended SSH Clients](#recommended-ssh-clients)
 - [WeOS Cheat Sheet](#weos-cheat-sheet)
-  - [Admin Exec context](#admin-exec-context)
-  - [Global Configuration context](#global-configuration-context)
-  - [How to navigate in the different context menus](#how-to-navigate-in-the-different-context-menus)
-- [Admin Exec context (Commands)](#admin-exec-context-commands)
+  - [Admin Exec Context](#admin-exec-context)
+  - [Global Configuration Context](#global-configuration-context)
+  - [Navigating Different Context Menus](#navigating-different-context-menus)
+- [Admin Exec Context (Commands)](#admin-exec-context-commands)
 - [Global Configuration Context (Commands)](#global-configuration-context-commands)
-- [Handling of files](#handling-of-files)
+- [File Handling](#file-handling)
 - [General Abbreviations in Network Technology](#general-abbreviations-in-network-technology)
-  - [Switching Abbreviations in Network Technology](#switching-abbreviations-in-network-technology)
-  - [Routing Abbreviations in Network Technology](#routing-abbreviations-in-network-technology)
+  - [Switching Abbreviations](#switching-abbreviations)
+  - [Routing Abbreviations](#routing-abbreviations)
+
 
 
 # Accessing the command line interface:
