@@ -146,93 +146,56 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `upgrade secondary [source_ip] [filename.pkg]`| Upgrade secondary firmware from an FTP/TFTP server. | WeOS4/5|
 | `upgrade boot [source_ip] [filename.pkg]`| Upgrade bootloader from an FTP/TFTP server. | WeOS4/5|
 
-### General Abbreviations in Network Technology
+## Common Abbreviations in Network Technology
+
+### General Abbreviations
 
 | Abbreviation | Context (OSI Layer)             | Explanation                                                  |
 |--------------|---------------------------------|--------------------------------------------------------------|
 | AAA          | Security                        | Authentication, Authorization, and Accounting                |
-| ADSL         | Connection (Layer 1)            | Asymmetric Digital Subscriber Line                           |
 | CLI          | User Interface                  | Command Line Interface                                       |
-| DMZ          | Security                        | Demilitarized Zone                                           |
 | DNS          | Name Resolution (Layer 7)       | Domain Name System                                           |
 | DoS          | Security                        | Denial of Service                                            |
-| DSL          | Connection (Layer 1)            | Digital Subscriber Line                                      |
-| DSSS         | Transmission Technique (Layer 1)| Direct Sequence Spread Spectrum                              |
 | FTP          | Protocol (Layer 7)              | File Transfer Protocol                                       |
-| GRE          | Tunneling (Layer 3)             | Generic Routing Encapsulation                                |
-| GUI          | User Interface                  | Graphical User Interface                                     |
 | HTTP         | Protocol (Layer 7)              | Hypertext Transfer Protocol                                  |
-| HTTPS        | Protocol (Layer 7)              | Hypertext Transfer Protocol Secure                           |
-| IKE          | Security (Layer 4)              | Internet Key Exchange                                        |
-| IMAP         | Protocol (Layer 7)              | Internet Message Access Protocol                             |
 | IPsec        | Security (Layer 3)              | Internet Protocol Security                                   |
 | ISP          | Service Provider                | Internet Service Provider                                    |
-| LDAP         | Directory Services (Layer 7)    | Lightweight Directory Access Protocol                        |
-| MPLS         | Data Transmission (Layer 2.5)   | Multiprotocol Label Switching                                |
 | MTU          | Data Transmission (Layer 3)     | Maximum Transmission Unit                                    |
 | NTP          | Time Protocol (Layer 7)         | Network Time Protocol                                        |
-| PAP          | Security (Layer 2)              | Password Authentication Protocol                             |
-| PoE          | Power Supply                    | Power over Ethernet                                          |
-| POP3         | Protocol (Layer 7)              | Post Office Protocol 3                                       |
-| PPP          | Protocol (Layer 2)              | Point-to-Point Protocol                                      |
-| PPTP         | Tunneling (Layer 2)             | Point-to-Point Tunneling Protocol                            |
 | QoS          | Data Transmission (Layer 2/3)   | Quality of Service                                           |
-| RMON         | Network Management (Layer 7)    | Remote Network Monitoring                                    |
-| SCP          | Protocol (Layer 7)              | Secure Copy Protocol                                         |
-| SFTP         | Protocol (Layer 7)              | Secure File Transfer Protocol                                |
-| SMTP         | Protocol (Layer 7)              | Simple Mail Transfer Protocol                                |
 | SNMP         | Network Management (Layer 7)    | Simple Network Management Protocol                           |
 | SSH          | Protocol (Layer 7)              | Secure Shell                                                 |
 | SSL          | Security (Layer 6)              | Secure Sockets Layer                                         |
 | TCP          | Protocol (Layer 4)              | Transmission Control Protocol                                |
-| TFTP         | Protocol (Layer 7)              | Trivial File Transfer Protocol                               |
-| TLS          | Security (Layer 6)              | Transport Layer Security                                     |
 | UDP          | Protocol (Layer 4)              | User Datagram Protocol                                       |
 | VoIP         | Communication (Layer 7)         | Voice over Internet Protocol                                 |
 | VPN          | Tunneling (Layer 3)             | Virtual Private Network                                      |
-| WAN          | Network (Layer 1/2)             | Wide Area Network                                            |
-| WWW          | Internet (Layer 7)              | World Wide Web                                               |
 
-### Switching Abbreviations in Network Technology
+### Switching Abbreviations
 
 | Abbreviation | Context (OSI Layer)             | Explanation                                                  |
 |--------------|---------------------------------|--------------------------------------------------------------|
 | ACL          | Security (Layer 2/3)            | Access Control List                                          |
 | AP           | Network Device (Layer 2)        | Access Point                                                 |
 | ARP          | Protocol (Layer 2)              | Address Resolution Protocol                                  |
-| ATM          | Connection (Layer 2)            | Asynchronous Transfer Mode                                   |
 | CSMA/CD      | Network Protocol (Layer 2)      | Carrier Sense Multiple Access with Collision Detection       |
 | LAN          | Network (Layer 1/2)             | Local Area Network                                           |
 | MAC          | Addressing (Layer 2)            | Media Access Control                                         |
-| PPP          | Protocol (Layer 2)              | Point-to-Point Protocol                                      |
-| PPTP         | Tunneling (Layer 2)             | Point-to-Point Tunneling Protocol                            |
-| STP          | Protocol (Layer 2)              | Spanning Tree Protocol                                       |
 | VLAN         | Network (Layer 2)               | Virtual Local Area Network                                   |
-| WEP          | Security (Layer 2)              | Wired Equivalent Privacy                                     |
 | Wi-Fi        | Network (Layer 1/2)             | Wireless Fidelity                                            |
-| WLAN         | Network (Layer 1/2)             | Wireless Local Area Network                                  |
-| WPA          | Security (Layer 2)              | Wi-Fi Protected Access                                       |
 
-### Routing Abbreviations in Network Technology
+### Routing Abbreviations
 
 | Abbreviation | Context (OSI Layer)             | Explanation                                                  |
 |--------------|---------------------------------|--------------------------------------------------------------|
-| AS           | Routing (Layer 3)               | Autonomous System                                            |
 | BGP          | Routing (Layer 3)               | Border Gateway Protocol                                      |
 | CIDR         | Addressing (Layer 3)            | Classless Inter-Domain Routing                               |
 | GRE          | Tunneling (Layer 3)             | Generic Routing Encapsulation                                |
 | ICMP         | Protocol (Layer 3)              | Internet Control Message Protocol                            |
-| IGMP         | Protocol (Layer 3)              | Internet Group Management Protocol                           |
 | IP           | Addressing (Layer 3)            | Internet Protocol                                            |
-| IPv4         | Addressing (Layer 3)            | Internet Protocol version 4                                  |
-| IPv6         | Addressing (Layer 3)            | Internet Protocol version 6                                  |
-| MPLS         | Data Transmission (Layer 2.5)   | Multiprotocol Label Switching                                |
-| MTU          | Data Transmission (Layer 3)     | Maximum Transmission Unit                                    |
-| NAT          | Addressing (Layer 3)            | Network Address Translation                                  |
 | OSPF         | Routing (Layer 3)               | Open Shortest Path First                                     |
-| QoS          | Data Transmission (Layer 2/3)   | Quality of Service                                           |
 | RIP          | Routing (Layer 3)               | Routing Information Protocol                                 |
-| VPN          | Tunneling (Layer 3)             | Virtual Private Network                                      |
+
 
 
 **Note:** Replace placeholders like [interface_name], [ip_address], [subnet_mask], etc.
