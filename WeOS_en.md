@@ -200,4 +200,4 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 **Note:** Replace placeholders like [interface_name], [ip_address], [subnet_mask], etc.
 
-### Versions WeOS 4.33.2 and WeOS 5.20.0
+### Versions WeOS 4.33.2 and WeOS 5.20.1
