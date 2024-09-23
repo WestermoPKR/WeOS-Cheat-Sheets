@@ -97,6 +97,8 @@ Från Admin Exec Context kan användare komma åt Global Configuration Context. 
 
 ### Navigering i olika kontextmenyer:
 
+![WeOS Logo](<Screenshot 2024-04-16 155831.png>)
+
 | Kommando                      | Beskrivning                                             | OS-version |
 |-------------------------------|---------------------------------------------------------|------------|
 | `configure`                    | Går in i Global Configuration Context.                 | WeOS4/5    |
