@@ -18,22 +18,15 @@
   - [Routing Abbreviations](#routing-abbreviations)
 
 
-
 To login via the console port you need the username and password. Currently, there is only a single user account defined, the administrator user account. Factory default account and password:
 
-### WeOS4
+### User Accounts
 
-| Username | Password |
-| :--- | :--- |
-| admin | westermo | 
+| **WeOS4** |                | **WeOS5** |
+| :---      | :---           | :---      |
+| Username  | Password       | Username  | Password  |
+| admin     | westermo       | admin     | admin     |
 
-&nbsp;  <!-- This creates a space between the tables -->
-
-### WeOS5
-
-| Username | Password |
-| :--- | :--- |
-| admin | admin |
 
 
 ### Console Port Configuration:
