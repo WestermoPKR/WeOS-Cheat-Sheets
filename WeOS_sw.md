@@ -57,6 +57,8 @@ För att komma åt CLI via SSH behöver du en SSH-klient, switchens IP-adress oc
 
 # WeOS Fuskark
 
+![WeOS Logo](<Screenshot 2024-04-16 155850.png>)
+
 ### Admin Exec Kontext
 
 I Admin Exec Kontext kan användare utföra generell övervakning, diagnostik och hantera konfigurationsfiler och firmwareversioner. Användarna kan också tillgå specifika utförandekontexter, som att visa RMON-statistik.
@@ -66,6 +68,8 @@ I Admin Exec Kontext kan användare utföra generell övervakning, diagnostik oc
 Från Admin Exec Kontext kan användarna tillgå Global Konfigurationskontext. Här kan de ställa in enhetsparametrar av global betydelse, som värdnamn och plats. Från Global Konfigurationskontext kan användare navigera till specifika kontexter för protokoll eller enhetsenheter såsom portar, VLAN, gränssnitt och FRNT.
 
 ### Navigering i olika kontextmenyer:
+
+![WeOS Logo](<Screenshot 2024-04-16 155831.png>)
 
 | Kommando                   | Beskrivning                                           | OS Version |
 |----------------------------|------------------------------------------------------|------------|
