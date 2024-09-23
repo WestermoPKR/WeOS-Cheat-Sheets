@@ -21,17 +21,15 @@
 
 # Accessing the command line interface:
 
-To login via the console port you need the username and password. Currently there is only a single user account defined, the administrator user account. Factory default account and password:
+To login via the console port you need the username and password. Currently, there is only a single user account defined, the administrator user account. Factory default account and password:
 
-### WeOS4
-| Username | Password |
+| **WeOS4** | **WeOS5** |
 | :--- | :--- |
-| admin | westermo | 
-
-### WeOS5
-| Username | Password |
-| :--- | :--- |
+| **Username** | **Username** |
 | admin | admin |
+| **Password** | **Password** |
+| westermo | admin |
+
 
 
 
