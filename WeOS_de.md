@@ -191,6 +191,8 @@ Vom Admin Exec Kontext aus können Benutzer auf den Globalen Konfigurationskonte
 | VoIP      | Kommunikation (Schicht 7)    | Voice over Internet Protocol                              |
 | VPN       | Tunneling (Schicht 3)        | Virtuelles Privates Netzwerk                              |
 
+---
+
 ### Abkürzungen für Switching
 
 | Abkürzung | Kontext (OSI-Schicht)        | Erklärung                                                  |
@@ -203,6 +205,8 @@ Vom Admin Exec Kontext aus können Benutzer auf den Globalen Konfigurationskonte
 | MAC       | Adressierung (Schicht 2)     | Media Access Control                                      |
 | VLAN      | Netzwerk (Schicht 2)         | Virtuelles Lokales Netzwerk                               |
 | Wi-Fi     | Netzwerk (Schicht 1/2)       | Wireless Fidelity                                         |
+
+---
 
 ### Routing-Abkürzungen
 
