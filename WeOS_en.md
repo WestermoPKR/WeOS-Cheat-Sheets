@@ -22,12 +22,38 @@ To login via the console port you need the username and password. Currently, the
 
 ### User Accounts
 
-| **WeOS4** |                | **WeOS5** |
-| :---      | :---           | :---      |
-| Username  | Password       | Username  | Password  |
-| admin     | westermo       | admin     | admin     |
-
-
+<table>
+    <tr>
+        <th>WeOS4</th>
+        <th>WeOS5</th>
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <th>Username</th>
+                    <th>Password</th>
+                </tr>
+                <tr>
+                    <td>admin</td>
+                    <td>westermo</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <th>Username</th>
+                    <th>Password</th>
+                </tr>
+                <tr>
+                    <td>admin</td>
+                    <td>admin</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
 
 ### Console Port Configuration:
 
