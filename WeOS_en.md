@@ -55,7 +55,7 @@ To log in via the console port, you need the username and password. Currently, t
         </td>
     </tr>
 </table>
-
+---
 ### Console Port Configuration:
 
 | Setting      | Value             |
@@ -194,6 +194,8 @@ From the Admin Exec context, users can access the Global Configuration context. 
 | VoIP         | Communication (Layer 7)     | Voice over Internet Protocol                          |
 | VPN          | Tunneling (Layer 3)         | Virtual Private Network                                |
 
+---
+
 ### Switching Abbreviations
 
 | Abbreviation | Context (OSI Layer)        | Explanation                                            |
@@ -206,6 +208,8 @@ From the Admin Exec context, users can access the Global Configuration context. 
 | MAC          | Addressing (Layer 2)        | Media Access Control                                  |
 | VLAN         | Network (Layer 2)           | Virtual Local Area Network                            |
 | Wi-Fi        | Network (Layer 1/2)         | Wireless Fidelity                                     |
+
+---
 
 ### Routing Abbreviations
 
