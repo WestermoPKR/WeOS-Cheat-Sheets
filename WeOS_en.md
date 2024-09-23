@@ -93,9 +93,13 @@ To access the CLI via SSH, you need an SSH client, the switch IP address, and ac
 
 In the Admin Exec context, users can perform general monitoring, diagnostics, and manage configuration files and firmware versions. They can also access specific execution contexts, such as viewing RMON statistics.
 
+---
+
 ### Global Configuration Context
 
 From the Admin Exec context, users can access the Global Configuration context. Here, they can set device parameters of global significance, like hostname and location. From the Global Configuration context, users can navigate to specific contexts for protocols or device entities such as ports, VLANs, interfaces, and FRNT.
+
+---
 
 ### Navigating Different Context Menus:
 
