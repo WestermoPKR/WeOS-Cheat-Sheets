@@ -7,9 +7,9 @@ Welcome to the ultimate cheat sheets for WeOS4 and WeOS5! Whether you're a seaso
 
 ## Cheat Sheets
 
-- [WeOS4/5 Cheat Sheet english 🇬🇧](https://github.com/WesterMario/WeOS-Cheat-Sheets/blob/WeOS/WeOS_en.md)
-- [WeOS4/5 Cheat Sheet german](https://github.com/WesterMario/WeOS-Cheat-Sheets/blob/WeOS/WeOS_de.md)
-- [WeOS4/5 Cheat Sheet swedish](https://github.com/WesterMario/WeOS-Cheat-Sheets/blob/WeOS/WeOS_sw.md)
+- [🇬🇧 WeOS4/5 Cheat Sheet english](https://github.com/WesterMario/WeOS-Cheat-Sheets/blob/WeOS/WeOS_en.md)
+- [🇩🇪 WeOS4/5 Cheat Sheet german](https://github.com/WesterMario/WeOS-Cheat-Sheets/blob/WeOS/WeOS_de.md)
+- [🇸🇪 WeOS4/5 Cheat Sheet swedish](https://github.com/WesterMario/WeOS-Cheat-Sheets/blob/WeOS/WeOS_sw.md)
 
 ---
 
