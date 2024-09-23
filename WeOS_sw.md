@@ -28,6 +28,8 @@ För att logga in via konsolporten behöver du användarnamnet och lösenordet. 
 | användarnamn | användarnamn |
 | westermo   | admin       |
 
+---
+
 ### Konfiguration av konsolporten:
 
 | Inställning   | Värde               |
@@ -37,6 +39,8 @@ För att logga in via konsolporten behöver du användarnamnet och lösenordet. 
 | Stoppbitar    | 1                   |
 | Paritet       | Ingen               |
 | Flödeskontroll | Ingen              |
+
+---
 
 Virtuell COM-port (VCP) drivrutin: [FTDI VCP Drivers](https://ftdichip.com/drivers/vcp-drivers/)
 
@@ -63,9 +67,13 @@ För att komma åt CLI via SSH behöver du en SSH-klient, switchens IP-adress oc
 
 I Admin Exec Kontext kan användare utföra generell övervakning, diagnostik och hantera konfigurationsfiler och firmwareversioner. Användarna kan också tillgå specifika utförandekontexter, som att visa RMON-statistik.
 
+---
+
 ### Global Konfigurationskontext
 
 Från Admin Exec Kontext kan användarna tillgå Global Konfigurationskontext. Här kan de ställa in enhetsparametrar av global betydelse, som värdnamn och plats. Från Global Konfigurationskontext kan användare navigera till specifika kontexter för protokoll eller enhetsenheter såsom portar, VLAN, gränssnitt och FRNT.
+
+---
 
 ### Navigering i olika kontextmenyer:
 
@@ -165,6 +173,8 @@ Från Admin Exec Kontext kan användarna tillgå Global Konfigurationskontext. H
 | VoIP        | Kommunikation (lager 7)      | Voice over Internet Protocol                         |
 | VPN         | Tunneling (lager 3)          | Virtuellt privat nätverk                             |
 
+---
+
 ### Förkortningar för switching
 
 | Förkortning | Kontext (OSI-lager)        | Förklaring                                            |
@@ -177,6 +187,8 @@ Från Admin Exec Kontext kan användarna tillgå Global Konfigurationskontext. H
 | MAC         | Adressering (lager 2)        | Media Access Control                                 |
 | VLAN        | Nätverk (lager 2)            | Virtuellt lokalt nätverk                             |
 | Wi-Fi       | Nätverk (lager 1/2)          | Wireless Fidelity                                    |
+
+---
 
 ### Förkortningar för routing
 
