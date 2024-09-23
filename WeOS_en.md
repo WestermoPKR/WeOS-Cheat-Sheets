@@ -55,7 +55,9 @@ To log in via the console port, you need the username and password. Currently, t
         </td>
     </tr>
 </table>
+
 ---
+
 ### Console Port Configuration:
 
 | Setting      | Value             |
