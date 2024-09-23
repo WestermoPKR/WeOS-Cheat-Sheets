@@ -164,58 +164,59 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `upgrade secondary [source_ip] [filename.pkg]`| Upgrade secondary firmware from an FTP/TFTP server. | WeOS4/5|
 | `upgrade boot [source_ip] [filename.pkg]`| Upgrade bootloader from an FTP/TFTP server. | WeOS4/5|
 
-## Common Abbreviations in Network Technology
 
-### General Abbreviations
+## Allgemeine Abkürzungen in der Netzwerktechnologie
 
-| Abbreviation | Context (OSI Layer)             | Explanation                                                  |
-|--------------|---------------------------------|--------------------------------------------------------------|
-| AAA          | Security                        | Authentication, Authorization, and Accounting                |
-| CLI          | User Interface                  | Command Line Interface                                       |
-| DNS          | Name Resolution (Layer 7)       | Domain Name System                                           |
-| DoS          | Security                        | Denial of Service                                            |
-| FTP          | Protocol (Layer 7)              | File Transfer Protocol                                       |
-| HTTP         | Protocol (Layer 7)              | Hypertext Transfer Protocol                                  |
-| IPsec        | Security (Layer 3)              | Internet Protocol Security                                   |
-| ISP          | Service Provider                | Internet Service Provider                                    |
-| MTU          | Data Transmission (Layer 3)     | Maximum Transmission Unit                                    |
-| NTP          | Time Protocol (Layer 7)         | Network Time Protocol                                        |
-| QoS          | Data Transmission (Layer 2/3)   | Quality of Service                                           |
-| SNMP         | Network Management (Layer 7)    | Simple Network Management Protocol                           |
-| SSH          | Protocol (Layer 7)              | Secure Shell                                                 |
-| SSL          | Security (Layer 6)              | Secure Sockets Layer                                         |
-| TCP          | Protocol (Layer 4)              | Transmission Control Protocol                                |
-| UDP          | Protocol (Layer 4)              | User Datagram Protocol                                       |
-| VoIP         | Communication (Layer 7)         | Voice over Internet Protocol                                 |
-| VPN          | Tunneling (Layer 3)             | Virtual Private Network                                      |
+### Allgemeine Abkürzungen
 
-### Switching Abbreviations
+| Abkürzung | Kontext (OSI-Schicht)         | Erklärung                                                  |
+|-----------|-------------------------------|-----------------------------------------------------------|
+| AAA       | Sicherheit                    | Authentifizierung, Autorisierung und Abrechnung           |
+| CLI       | Benutzeroberfläche            | Kommandozeilen-Schnittstelle                              |
+| DNS       | Namensauflösung (Schicht 7)   | Domain Name System                                        |
+| DoS       | Sicherheit                    | Denial of Service                                         |
+| FTP       | Protokoll (Schicht 7)         | File Transfer Protocol                                    |
+| HTTP      | Protokoll (Schicht 7)         | Hypertext Transfer Protocol                               |
+| IPsec     | Sicherheit (Schicht 3)        | Internet Protocol Security                                |
+| ISP       | Dienstanbieter                | Internet Service Provider                                 |
+| MTU       | Datenübertragung (Schicht 3)  | Maximum Transmission Unit                                 |
+| NTP       | Zeitprotokoll (Schicht 7)     | Network Time Protocol                                     |
+| QoS       | Datenübertragung (Schicht 2/3) | Quality of Service                                        |
+| SNMP      | Netzwerkmanagement (Schicht 7) | Simple Network Management Protocol                        |
+| SSH       | Protokoll (Schicht 7)         | Secure Shell                                              |
+| SSL       | Sicherheit (Schicht 6)        | Secure Sockets Layer                                      |
+| TCP       | Protokoll (Schicht 4)         | Transmission Control Protocol                             |
+| UDP       | Protokoll (Schicht 4)         | User Datagram Protocol                                    |
+| VoIP      | Kommunikation (Schicht 7)     | Voice over Internet Protocol                              |
+| VPN       | Tunneling (Schicht 3)         | Virtuelles Privates Netzwerk                              |
 
-| Abbreviation | Context (OSI Layer)             | Explanation                                                  |
-|--------------|---------------------------------|--------------------------------------------------------------|
-| ACL          | Security (Layer 2/3)            | Access Control List                                          |
-| AP           | Network Device (Layer 2)        | Access Point                                                 |
-| ARP          | Protocol (Layer 2)              | Address Resolution Protocol                                  |
-| CSMA/CD      | Network Protocol (Layer 2)      | Carrier Sense Multiple Access with Collision Detection       |
-| LAN          | Network (Layer 1/2)             | Local Area Network                                           |
-| MAC          | Addressing (Layer 2)            | Media Access Control                                         |
-| VLAN         | Network (Layer 2)               | Virtual Local Area Network                                   |
-| Wi-Fi        | Network (Layer 1/2)             | Wireless Fidelity                                            |
+### Abkürzungen für Switching
 
-### Routing Abbreviations
+| Abkürzung | Kontext (OSI-Schicht)         | Erklärung                                                  |
+|-----------|-------------------------------|-----------------------------------------------------------|
+| ACL       | Sicherheit (Schicht 2/3)      | Access Control List                                       |
+| AP        | Netzwerkgerät (Schicht 2)      | Access Point                                              |
+| ARP       | Protokoll (Schicht 2)         | Address Resolution Protocol                               |
+| CSMA/CD   | Netzwerkprotokoll (Schicht 2)  | Carrier Sense Multiple Access mit Kollisionsdetektion     |
+| LAN       | Netzwerk (Schicht 1/2)         | Local Area Network                                        |
+| MAC       | Adressierung (Schicht 2)       | Media Access Control                                      |
+| VLAN      | Netzwerk (Schicht 2)           | Virtuelles Lokales Netzwerk                                |
+| Wi-Fi     | Netzwerk (Schicht 1/2)         | Wireless Fidelity                                         |
 
-| Abbreviation | Context (OSI Layer)             | Explanation                                                  |
-|--------------|---------------------------------|--------------------------------------------------------------|
-| BGP          | Routing (Layer 3)               | Border Gateway Protocol                                      |
-| CIDR         | Addressing (Layer 3)            | Classless Inter-Domain Routing                               |
-| GRE          | Tunneling (Layer 3)             | Generic Routing Encapsulation                                |
-| ICMP         | Protocol (Layer 3)              | Internet Control Message Protocol                            |
-| IP           | Addressing (Layer 3)            | Internet Protocol                                            |
-| OSPF         | Routing (Layer 3)               | Open Shortest Path First                                     |
-| RIP          | Routing (Layer 3)               | Routing Information Protocol                                 |
+### Routing-Abkürzungen
+
+| Abkürzung | Kontext (OSI-Schicht)         | Erklärung                                                  |
+|-----------|-------------------------------|-----------------------------------------------------------|
+| BGP       | Routing (Schicht 3)           | Border Gateway Protocol                                   |
+| CIDR      | Adressierung (Schicht 3)      | Classless Inter-Domain Routing                            |
+| GRE       | Tunneling (Schicht 3)         | Generic Routing Encapsulation                             |
+| ICMP      | Protokoll (Schicht 3)         | Internet Control Message Protocol                         |
+| IP        | Adressierung (Schicht 3)      | Internet Protocol                                         |
+| OSPF      | Routing (Schicht 3)           | Open Shortest Path First                                  |
+| RIP       | Routing (Schicht 3)           | Routing Information Protocol                              |
 
 
+**Hinweis:** Ersetze Platzhalter wie `[interface_name]`, `[ip_address]`, `[subnet_mask]` usw.
 
-**Note:** Replace placeholders like [interface_name], [ip_address], [subnet_mask], etc.
+### Versionen WeOS 4.33.2 und WeOS 5.20.1
 
-### Versions WeOS 4.33.2 and WeOS 5.20.1
