@@ -109,16 +109,6 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | <button onclick="copyToClipboard('firewall')">`firewall`</button> | Enters Firewall/NAT Config. Context from General IP Config. Context. | WeOS4/5 |
 | <button onclick="copyToClipboard('end')">`end`</button> | Return to the previous mode. | WeOS4/5 |
 
-<script>
-function copyToClipboard(text) {
-    navigator.clipboard.writeText(text).then(function() {
-        alert('Copied: ' + text);
-    }, function(err) {
-        console.error('Could not copy text: ', err);
-    });
-}
-</script>
-
 
 ### Admin Exec context:
 
