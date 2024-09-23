@@ -97,60 +97,17 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 ### How to navigate in the different context menus:
 
-![alt text](<Screenshot 2024-04-16 155831.png>)
-
-<table>
-    <tr>
-        <th>Command</th>
-        <th>Description</th>
-        <th>OS Version</th>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('configure')">`configure`</button></td>
-        <td>Enters Global Configuration context.</td>
-        <td>WeOS4/5</td>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('logout')">`logout`</button></td>
-        <td>Logged you out of the device.</td>
-        <td>WeOS4/5</td>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('vlan [#]')">`vlan [#]`</button></td>
-        <td>Enters VLAN Config. Context from Global Config. Context.</td>
-        <td>WeOS4/5</td>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('port eth[#] / dsl[#]')">`port eth[#] / dsl[#]`</button></td>
-        <td>Enters Port Config. Context from Global Config. Context.</td>
-        <td>WeOS4/5</td>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('port ethx[#]')">`port ethx[#]`</button></td>
-        <td>Viper devices. Enters Port Config. Context from Global Config. Context.</td>
-        <td>WeOS4/5</td>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('port ser[#]')">`port ser[#]`</button></td>
-        <td>LynxDSS devices. Enters Port Config. Context from Global Config. Context.</td>
-        <td>WeOS4/5</td>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('ip')">`ip`</button></td>
-        <td>Enters IP Config. Context from Global Config. Context.</td>
-        <td>WeOS4/5</td>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('firewall')">`firewall`</button></td>
-        <td>Enters Firewall/NAT Config. Context from General IP Config. Context.</td>
-        <td>WeOS4/5</td>
-    </tr>
-    <tr>
-        <td><button onclick="copyToClipboard('end')">`end`</button></td>
-        <td>Return to the previous mode.</td>
-        <td>WeOS4/5</td>
-    </tr>
-</table>
+| Command | Description | OS Version |
+| :--- | :--- | :--- |
+| <button onclick="copyToClipboard('configure')">`configure`</button> | Enters Global Configuration context. | WeOS4/5 |
+| <button onclick="copyToClipboard('logout')">`logout`</button> | Logged you out of the device. | WeOS4/5 |
+| <button onclick="copyToClipboard('vlan [#]')">`vlan [#]`</button> | Enters VLAN Config. Context from Global Config. Context. | WeOS4/5 |
+| <button onclick="copyToClipboard('port eth[#] / dsl[#]')">`port eth[#] / dsl[#]`</button> | Enters Port Config. Context from Global Config. Context. | WeOS4/5 |
+| <button onclick="copyToClipboard('port ethx[#]')">`port ethx[#]`</button> | Viper devices. Enters Port Config. Context from Global Config. Context. | WeOS4/5 |
+| <button onclick="copyToClipboard('port ser[#]')">`port ser[#]`</button> | LynxDSS devices. Enters Port Config. Context from Global Config. Context. | WeOS4/5 |
+| <button onclick="copyToClipboard('ip')">`ip`</button> | Enters IP Config. Context from Global Config. Context. | WeOS4/5 |
+| <button onclick="copyToClipboard('firewall')">`firewall`</button> | Enters Firewall/NAT Config. Context from General IP Config. Context. | WeOS4/5 |
+| <button onclick="copyToClipboard('end')">`end`</button> | Return to the previous mode. | WeOS4/5 |
 
 <script>
 function copyToClipboard(text) {
@@ -161,7 +118,6 @@ function copyToClipboard(text) {
     });
 }
 </script>
-
 
 
 ### Admin Exec context:
