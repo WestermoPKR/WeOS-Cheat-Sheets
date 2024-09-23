@@ -97,6 +97,9 @@ From the Admin Exec context, users can access the Global Configuration context. 
 
 ### Navigating Different Context Menus:
 
+![WeOS Logo](<Screenshot 2024-04-16 155831.png>)
+
+
 | Command                      | Description                                              | OS Version |
 |------------------------------|---------------------------------------------------------|------------|
 | `configure`                  | Enters Global Configuration context.                    | WeOS4/5    |
