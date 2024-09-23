@@ -154,12 +154,13 @@ From Global Configuration, users can navigate to specific contexts for protocols
 | `ntp peer [FQDNP-ADDR]` |Sets an NTP for this device. | WeOS5 |
 
 
-| Command                                      | Description                              | Example Command                             | OS Version |
-|----------------------------------------------|------------------------------------------|---------------------------------------------|------------|
-| `copy [src] [dest]:`                        | Copies files between locations.          | `copy flash:/config.txt usb:/backup/`     | WeOS4/5    |
-| `upgrade primary [src_ip] [file.pkg]`      | Update primary firmware from server.    | `upgrade primary 192.168.1.100 firmware.pkg` | WeOS4/5    |
-| `upgrade secondary [src_ip] [file.pkg]`    | Update secondary firmware from server.   | `upgrade secondary 192.168.1.100 firmware.pkg` | WeOS4/5    |
-| `upgrade boot [src_ip] [file.pkg]`         | Update bootloader from server.           | `upgrade boot 192.168.1.100 bootloader.pkg` | WeOS4/5    |
+| Command                                      | Description                              | OS Version |
+|----------------------------------------------|------------------------------------------|------------|
+| `copy [src] [dest]:`                        | Copies files between locations.          | WeOS4/5    |
+| `upgrade primary [src_ip] [file.pkg]`      | Update primary firmware from server.    | WeOS4/5    |
+| `upgrade secondary [src_ip] [file.pkg]`    | Update secondary firmware from server.   | WeOS4/5    |
+| `upgrade boot [src_ip] [file.pkg]`         | Update bootloader from server.           | WeOS4/5    |
+
 
 
 
