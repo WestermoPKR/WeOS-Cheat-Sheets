@@ -155,14 +155,14 @@ From Global Configuration, users can navigate to specific contexts for protocols
 
 
 
-### Handling of files:
+| Command                                      | Description                                          | Example Command                             | OS Version |
+|----------------------------------------------|-----------------------------------------------------|---------------------------------------------|------------|
+| `copy [source] [destination]:`              | Copies files between different locations.           | `copy flash:/config.txt usb:/backup/`     | WeOS4/5    |
+| `upgrade primary [source_ip] [filename.pkg]`| Upgrade primary firmware from an FTP/TFTP server.   | `upgrade primary 192.168.1.100 firmware.pkg` | WeOS4/5    |
+| `upgrade secondary [source_ip] [filename.pkg]`| Upgrade secondary firmware from an FTP/TFTP server. | `upgrade secondary 192.168.1.100 firmware.pkg` | WeOS4/5    |
+| `upgrade boot [source_ip] [filename.pkg]`   | Upgrade bootloader from an FTP/TFTP server.         | `upgrade boot 192.168.1.100 bootloader.pkg` | WeOS4/5    |
 
-| Command | Description | OS Version
-| :--- | :--- | :--- |
-| `copy [source] [destination]:`| Copies files between different locations. | WeOS4/5|
-| `upgrade primary [source_ip] [filename.pkg]`| Upgrade primary firmware from an FTP/TFTP server. | WeOS4/5|
-| `upgrade secondary [source_ip] [filename.pkg]`| Upgrade secondary firmware from an FTP/TFTP server. | WeOS4/5|
-| `upgrade boot [source_ip] [filename.pkg]`| Upgrade bootloader from an FTP/TFTP server. | WeOS4/5|
+
 
 
 ## Allgemeine Abkürzungen in der Netzwerktechnologie
