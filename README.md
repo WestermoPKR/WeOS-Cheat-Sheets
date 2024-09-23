@@ -21,7 +21,7 @@ The WeOS cheat sheet includes:
 
 ## How to Use
 
-1. **Download**: Click on the respective links to download the cheat sheets.
+1. **View**: Access the cheat sheets online through the provided links.
 2. **Print**: Keep a printed copy at your workstation for quick reference.
 3. **Share**: Share these cheat sheets with your team to ensure everyone has access to the same information.
 
