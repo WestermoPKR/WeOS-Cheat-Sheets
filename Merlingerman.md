@@ -25,7 +25,6 @@ Um sich über den Konsolenport anzumelden, benötigen Sie den Benutzernamen und 
 <table>
     <tr>
         <th>Merlin</th>
-        <th>WeOS5</th>
     </tr>
     <tr>
         <td>
@@ -86,15 +85,8 @@ Vom Admin Exec Kontext aus können Benutzer auf den Globalen Konfigurationskonte
 
 | Befehl                      | Beschreibung                                              | OS-Version |
 |-----------------------------|-----------------------------------------------------------|------------|
-| `configure`                 | Wechselt in den Globalen Konfigurationskontext.           | WeOS4/5    |
-| `logout`                    | Meldet Sie vom Gerät ab.                                  | WeOS4/5    |
-| `vlan [#]`                  | Wechselt in den VLAN-Kontext vom Globalen Konfigurationskontext aus. | WeOS4/5 |
-| `port eth[#] / dsl[#]`      | Wechselt in den Port-Kontext vom Globalen Konfigurationskontext aus. | WeOS4/5 |
-| `port ethx[#]`              | Viper-Geräte: Wechselt in den Port-Kontext.               | WeOS4/5    |
-| `port ser[#]`               | LynxDSS-Geräte: Wechselt in den Port-Kontext.             | WeOS4/5    |
-| `ip`                        | Wechselt in den IP-Konfigurationskontext.                 | WeOS4/5    |
-| `firewall`                  | Wechselt in den Firewall/NAT-Kontext vom IP-Kontext aus.  | WeOS4/5    |
-| `end`                       | Kehrt zum vorherigen Modus zurück.                        | WeOS4/5    |
+| `test                       | test                                                      | Merlin OS  |
+
 
 ---
 
@@ -102,25 +94,8 @@ Vom Admin Exec Kontext aus können Benutzer auf den Globalen Konfigurationskonte
 
 | Befehl                     | Beschreibung                                              | OS-Version |
 |----------------------------|-----------------------------------------------------------|------------|
-| `show`                     | Zeigt verschiedene Informationen wie Konfigurationen, Statistiken oder Status an. | WeOS4/5 |
-| `do`                       | Führt einen Befehl aus einem anderen Kontext aus.         | WeOS4/5    |
-| `show ifaces`              | Zeigt Informationen über Schnittstellen an.               | WeOS4/5    |
-| `show ip route`            | Zeigt die IP-Routing-Tabelle an.                          | WeOS4/5    |
-| `show arp`                 | Zeigt die ARP-Tabelle an.                                 | WeOS4/5    |
-| `show log`                 | Zeigt die Protokolle des Geräts an.                       | WeOS4/5    |
-| `show system`              | Zeigt Systeminformationen über das Gerät an.              | WeOS4/5    |
-| `show version`             | Zeigt Informationen über die aktuelle Systemversion an.   | WeOS4/5    |
-| `ping [ziel]`              | Sendet ICMP-Echo-Anfragen an das Ziel.                    | WeOS4/5    |
-| `traceroute [ziel]`        | Führt eine Traceroute zum Ziel durch.                     | WeOS4/5    |
-| `ipcalc [adresse]`         | Bietet Informationen über IP-Adressen und Subnetze.       | WeOS4/5    |
-| `repeat [befehl]`          | Führt einen angegebenen Befehl mehrfach aus.              | WeOS4/5    |
-| `uptime`                   | Zeigt die Betriebszeit seit dem letzten Neustart an.      | WeOS4/5    |
-| `ssh [user@adresse]`       | Secure Shell Login zu einem anderen Host.                 | WeOS4/5    |
-| `ipcalc`                   | IP-Netzmasken-/Broadcast-Rechner.                         | WeOS4/5    |
-| `reboot`                   | Startet das Gerät neu.                                    | WeOS4/5    |
-| `ipconfig [schnittstelle]` | Zeigt Nachbargeräte an.                                   | WeOS4/5    |
-| `follow`                   | Überwacht kontinuierlich eine (Log-)Datei.                | WeOS4/5    |
-| `factory-reset`            | Führt einen Werksreset des Geräts durch.                  | WeOS4/5    |
+| `Test`                     | Test                                                      | Merlin OS  |
+
 
 ---
 
@@ -128,17 +103,8 @@ Vom Admin Exec Kontext aus können Benutzer auf den Globalen Konfigurationskonte
 
 | Befehl                            | Beschreibung                                            | OS-Version |
 |-----------------------------------|---------------------------------------------------------|------------|
-| `aaa username [user] [password]`  | Setzt ein neues Passwort für einen Benutzer.            | WeOS4/5    |
-| `system location [location]`      | Legt einen Standort für dieses Gerät fest.              | WeOS4/5    |
-| `system hostname [hostname]`      | Konfiguriert den Gerätenamen.                           | WeOS4/5    |
-| `iface [schnittstelle]`           | Wechselt in den Konfigurationsmodus für eine Schnittstelle. | WeOS4/5 |
-| `address [ip_adresse] [subnetz]`  | Konfiguriert IP-Adresse und Subnetzmaske für eine Schnittstelle. | WeOS4 |
-| `inet static [ip_adresse/prefix]` | Konfiguriert IP-Adresse und Subnetzmaske für eine Schnittstelle. | WeOS5 |
-| `vlan [VID]`                      | Erstellt ein VLAN.                                      | WeOS4/5    |
-| `no shutdown`                     | Aktiviert eine deaktivierte Schnittstelle.              | WeOS4/5    |
-| `shutdown`                        | Deaktiviert eine Schnittstelle.                         | WeOS4/5    |
-| `ntp server [FQDN/IP-ADDR]`       | Setzt einen NTP-Server für dieses Gerät.                | WeOS4      |
-| `ntp peer [FQDN/IP-ADDR]`         | Setzt einen NTP-Server für dieses Gerät.                | WeOS5      |
+| `test                          `  | test                                                    |Merlin OS   |
+
 
 ---
 
@@ -146,10 +112,8 @@ Vom Admin Exec Kontext aus können Benutzer auf den Globalen Konfigurationskonte
 
 | Befehl                                       | Beschreibung                                            | OS-Version |
 |----------------------------------------------|---------------------------------------------------------|------------|
-| `copy [quelle] [ziel]`                       | Kopiert Dateien zwischen verschiedenen Orten.           | WeOS4/5    |
-| `upgrade primary [quelle_ip] [datei.pkg]`    | Aktualisiert die primäre Firmware von einem FTP/TFTP-Server. | WeOS4/5 |
-| `upgrade secondary [quelle_ip] [datei.pkg]`  | Aktualisiert die sekundäre Firmware von einem FTP/TFTP-Server. | WeOS4/5 |
-| `upgrade boot [quelle_ip] [datei.pkg]`       | Aktualisiert den Bootloader von einem FTP/TFTP-Server.  | WeOS4/5    |
+| TEst                                         | Test                                                    | Merlin OS  |
+
 
 ---
 
@@ -177,7 +141,11 @@ Vom Admin Exec Kontext aus können Benutzer auf den Globalen Konfigurationskonte
 | UDP       | Protokoll (Schicht 4)        | User Datagram Protocol                                    |
 | VoIP      | Kommunikation (Schicht 7)    | Voice over Internet Protocol                              |
 | VPN       | Tunneling (Schicht 3)        | Virtuelles Privates Netzwerk                              |
-
+| LTE       |                              |                                                           |
+| 5G        |                              |                                                           |
+| SIM       |                              |                                                           |
+| PIN       |                              |                                                           |
+| APN       |                              |                                                           |
 ---
 
 ### Abkürzungen für Switching
